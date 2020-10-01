@@ -14,29 +14,23 @@ public class Switch {
         if (n <= 100 && n >= -100) {
             switch (n) {
                 case 1:
-                    sum = a + b;
-                    System.out.println(sum);
+                    System.out.println(a+b);
                     break;
                 case 2:
-                    diff = a - b;
-                    System.out.println(diff);
+                    System.out.println(a-b);
                     break;
                 case 3:
-                    mul = a * b;
-                    System.out.println(mul);
+                    System.out.println(a*b);
                     break;
                 case 4:
                     if (b == 0) {
                         System.out.println("Error");
-                        break;
                     } else {
-                        div = a / b;
-                        System.out.println(div);
-                        break;
+                        System.out.println(a/b);
                     }
+                    break;
                 default:
                     System.out.println("Option not found");
-                    break;
             }
         }
     }
