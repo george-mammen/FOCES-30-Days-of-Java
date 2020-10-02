@@ -1,2 +1,2 @@
-<h1> Solutions to FOCES-30 Days of Coding using Java </h1>
+<h1> Solutions to the 30 days of Java Challenge by FOCES </h1>
 
