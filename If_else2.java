@@ -12,13 +12,13 @@ public class If_else2 {
         Scanner scan = new Scanner(System.in);
         n = scan.nextInt();
         scan.close();
-        if (n <= 100 && n >= -100) {
-            if (n >= 0) {
-                if (n % 5 == 0) {
-                    System.out.println("divisible by 5");
+        if (n<=100 && n>=-100) {
+            if (n>=0) {
+                if (n%5==0) {
+                    System.out.println(" It is divisible by 5 ");
                 }
-            } else if (n < 0) {
-                System.out.println("negative");
+            } else if (n<0) {
+                System.out.println("It is negative ");
             }
         }
     }
