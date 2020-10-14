@@ -1,4 +1,5 @@
-/*Write a Java program to get a number from the user and print whether it is positive or negative and do the following task 
+/* Day 3
+Write a Java program to get a number from the user and print whether it is positive or negative and do the following task 
 Task 1 : if number is positive then check if the number is divisible by 5. 
 Task 2: if number is not positive then print number is negative */
 
