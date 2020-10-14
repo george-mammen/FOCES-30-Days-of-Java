@@ -1,4 +1,10 @@
-// Day 6 : Roots of Quadratic Equation
+/*Day 6
+Task : 
+Given coefficients of a quadratic equation , you need to print the nature of the roots (real and distinct , real and equal , imaginary).
+
+Output Format :
+Output contains one/two lines.First line contains nature of the roots .The next line contains roots separated by a space if they exist. 
+Use 'float' type to store the value of roots. */
 
 import java.io.*;
 import java.util.*;
