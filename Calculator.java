@@ -1,4 +1,6 @@
-// Day 4:Calculator
+/* Day 4
+Task : Create a mini calculator with the operation addition , subtraction ,multiplication and division Input a Variable n for choosing any of the 4 operations. 
+       Then choose any of the 4 operation and perform the task. Then input 2 variables to perform the operation. Also check if the number can perform the task. */
 
 import java.io.*;
 import java.util.*;
