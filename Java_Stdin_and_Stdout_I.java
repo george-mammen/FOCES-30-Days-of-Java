@@ -1,4 +1,4 @@
-/*Day Two 
+/*Day Two :
 In this challenge, you must read  integers from stdin and then print them to stdout. Each integer must be printed on a new line. */
 
 import java.util.*;
