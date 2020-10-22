@@ -20,7 +20,7 @@
 
 ➼ Day 10 - Binary Search
 
-➼ Day 11 - Familiarize Arraylist
+➼ Day 11 - Query using Arraylist
 
 ➼ Day 12 - Converting Array to String.
 
