@@ -15,7 +15,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class If_else {
+public class DayOne {
 
         public static void main(String[] args) {
                 Scanner scanner = new Scanner(System.in);
