@@ -13,7 +13,7 @@ The program must return a Boolean value (True/False). Output is handled by the p
 import java.io.*;
 import java.util.*;
 
-public class Leap_Year {
+public class DayFive {
 
     public static void main(String[] args) {
         int n;
