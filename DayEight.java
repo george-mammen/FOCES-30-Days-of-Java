@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Explore_array {
+public class DayEight {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
