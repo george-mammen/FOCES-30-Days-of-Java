@@ -7,7 +7,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Iterative {
+public class  DaySeven {
 
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
