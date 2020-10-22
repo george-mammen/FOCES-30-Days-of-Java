@@ -29,7 +29,7 @@ interface Food {
     }
   }//End of getFood method
 
-	public class Solution {
+	public class DaySixteen {
 
 	 public static void main(String args[]){
 			Do_Not_Terminate.forbidExit();
