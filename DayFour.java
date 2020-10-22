@@ -5,7 +5,7 @@ Task : Create a mini calculator with the operation addition , subtraction ,multi
 import java.io.*;
 import java.util.*;
 
-public class Switch {
+public class DayFour {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
