@@ -10,7 +10,7 @@ import java.io.*;
 import java.util.*;
 import static java.lang.Math.*;
 
-public class roots_quadratic {
+public class DaySix{
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
