@@ -6,7 +6,7 @@ Task 2: if number is not positive then print number is negative */
 import java.io.*;
 import java.util.*;
 
-public class If_else2 {
+public class DayThree{
 
     public static void main(String[] args) {
         int n;
