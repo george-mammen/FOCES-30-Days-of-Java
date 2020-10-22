@@ -22,7 +22,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class DayFifteen {
 
     static String twoArrays(int k, int[] A, int[] B) {
         Arrays.sort(A);
