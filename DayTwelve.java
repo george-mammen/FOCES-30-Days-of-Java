@@ -6,7 +6,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class DayTwelve {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
