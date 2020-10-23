@@ -20,9 +20,9 @@
 
 ➼ Day 10 - Binary Search
 
-➼ Day 11 - Query using Arraylist
+➼ Day 11 - Converting Array to String.
 
-➼ Day 12 - Converting Array to String.
+➼ Day 12 - Query using Arraylist
 
 ➼ Day 13 - Transpose of a matrix.
 
