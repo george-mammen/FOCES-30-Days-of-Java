@@ -1,4 +1,4 @@
-<h1> Solutions to the 30 days of Java Challenge </h1>
+<h1> Solutions to the Java Coding Challenge </h1>
 
 ➼ Day 1 - If Else Statement
 
@@ -39,4 +39,14 @@
 ➼ Day 19 - Circular Array Rotation
 
 ➼ Day 20 - Hour Glass with 2D Array
+
+➼ Day 21 - Kth Prime and Twin
+
+➼ Day 22 - Conditional Palindrome 
+
+➼ Day 23 - Words Filter
+
+➼ Day 24 - Steps Calculator
+
+➼ Day 25 - Is it Alive?
 
